@@ -26,8 +26,8 @@ As the Output is coming is in detailed format in which there are some sentenes a
 We can use .txt to store Output in Text Format or we can use .xls for storing the Output in Excel Sheet. But then too, when we store Output in Excel Sheet by using .xls format, we get warning while opening Excel Sheet.
 There is a drawback for storing Output, is that first we have to store the Blank Excel Sheet ot Blank Text File in whatever way we want to store the Output results, then only it will store the Output into it and It is not auto generating any Output file by itself.
 The other drawback for storing Output is that, we can not overrite the existing File which we have mentioned to store the Output.
-![image](https://user-images.githubusercontent.com/77016896/122560627-6f6f4b00-d05e-11eb-9e93-96d420fe13a4.png)
+(https://user-images.githubusercontent.com/77016896/122560627-6f6f4b00-d05e-11eb-9e93-96d420fe13a4.png)
 The  approach I have used in Python is by taking referance from YouTube: 
 https://www.youtube.com/watch?v=2JgnvsaWuHk&list=PLaso8-OZjhbyFd_L1hGu_i-5yPwVaR9lK&index=5
 By using this approach, I have got the Output of the Differences in the mentioned path of Excel Sheet and it was giving lot of required details by camparing 2 Excel Sheets and showing Differences between each Column of 2 Excel Sheets.
-![image](https://user-images.githubusercontent.com/77016896/122560671-7eee9400-d05e-11eb-8e95-24b41c62e80b.png)
+(https://user-images.githubusercontent.com/77016896/122560671-7eee9400-d05e-11eb-8e95-24b41c62e80b.png)
